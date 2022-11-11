@@ -6,5 +6,7 @@ I am a first year computer science student and I live in France! I am interested
 
 ## If you want to discover my work, look at these three projects 👀
 [Skalefou/small-algorithm](https://github.com/Skalefou/small-algorithm) - Various algorithms of all kinds!
+
 [Skalefou/Firefighter](https://github.com/Skalefou/Firefighter) - Maze game in C++ (under development)
+
 [Skalefou/Snake](https://github.com/Skalefou/snake) - Snake game in C++
