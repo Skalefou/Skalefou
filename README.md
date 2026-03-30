@@ -38,8 +38,13 @@
 ### 🖥️ OS & platforms
 <img src="https://skillicons.dev/icons?i=debian,linux,mint,ubuntu" />
 
+
+<div align="center">
+  
 ## 📬 Contact
-
+  
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:skamsagar@protonmail.com)
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Skalefou&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+</div>
