@@ -4,7 +4,7 @@
 
 🎓 1st year Master's in Software Architecture
 
-🔐 Specialized in DevSecOps, Web Development and Software Architecture
+🔐 Specialized in DevSecOps, Web Development and Cloud Architecture
 
 🎸 Pink Floyd enjoyer ( David Gilmour > Roger Waters) 
 
