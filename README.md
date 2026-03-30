@@ -1,13 +1,19 @@
 # Hi and welcome! 💻
 
 🇫🇷 French developer | 🎓 1st year Master's in Software Architecture
+
 🔐 Specialized in DevSecOps, Web Development and Software Architecture
+
 🎸 Pink Floyd enjoyer ( David Gilmour > Roger Waters) 
+
 📖 9 years of programming experience — including 3 years in a professional environment
+
 🏛️ Working for the French Government — delivering projects across:
+
   - 🏗️ Software Architecture
   - 🛡️ DevSecOps practices & pipelines
   - 🌐 Web Development (Spring, NextJS, PostgreSQL, Neo4J, NestJS...)
+  - 
 ⚙️ Passionate about low-level systems programming — C · Rust · Assembly · Logic Circuits
 
 ## 🛠️ Tech Stack
