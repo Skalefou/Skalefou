@@ -1,6 +1,6 @@
 # Hi and welcome! 💻
 
-🇫🇷 French developer 
+🇫🇷 French software engineer 
 
 🎓 1st year Master's in Software Architecture
 
