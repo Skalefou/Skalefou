@@ -1,6 +1,8 @@
 # Hi and welcome! 💻
 
-🇫🇷 French developer | 🎓 1st year Master's in Software Architecture
+🇫🇷 French developer 
+
+🎓 1st year Master's in Software Architecture
 
 🔐 Specialized in DevSecOps, Web Development and Software Architecture
 
