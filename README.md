@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Langages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,go,java,js,ts,kotlin,php,python,rust,bash,html" />
 
 ### 🧩 Frameworks & librairies
@@ -29,11 +29,11 @@
 ### ☁️ Infra, cloud & DevOps
 <img src="https://skillicons.dev/icons?i=ansible,azure,cmake,docker,git,github,gitlab,gcp,grafana,kubernetes,rabbitmq,raspberrypi" />
 
-### 🗄️ Bases de données
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" />
 
-### 🔧 Outils
+### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=androidstudio,clion,discord,idea,linkedin,npm,postman,powershell,pycharm,sublime,vim,webstorm" />
 
-### 🖥️ OS & plateformes
+### 🖥️ OS & platforms
 <img src="https://skillicons.dev/icons?i=debian,linux,mint,ubuntu" />
