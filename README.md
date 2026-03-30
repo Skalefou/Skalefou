@@ -1,12 +1,31 @@
 # Hi and welcome! 💻
 
-I am a first year computer science student and I live in France! I am interested in all areas of computer science, although I have a small preference for software development. I work mainly on projects that can be very diverse. On one hand, I work on small projects that take less than 2 hours, on the other hand I also work on long projects like a video game in C++.
+🇫🇷 French developer | 🎓 1st year Master's in Software Architecture
+🔐 Specialized in DevSecOps, Web Development and Software Architecture
+🎸 Pink Floyd enjoyer ( David Gilmour > Roger Waters) 
+📖 9 years of programming experience — including 3 years in a professional environment
+🏛️ Working for the French Government — delivering projects across:
+  - 🏗️ Software Architecture
+  - 🛡️ DevSecOps practices & pipelines
+  - 🌐 Web Development (Spring, NextJS, PostgreSQL, Neo4J, NestJS...)
+⚙️ Passionate about low-level systems programming — C · Rust · Assembly · Logic Circuits
 
-🌱 I’m currently learning everything ! HTML/CSS/JS/PHP, C/C++, Python...
+## 🛠️ Tech Stack
 
-## If you want to discover my work, look at these three projects 👀
-[Skalefou/small-algorithm](https://github.com/Skalefou/small-algorithm) - Various algorithms of all kinds!
+### 💻 Langages
+<img src="https://skillicons.dev/icons?i=c,cpp,go,java,js,ts,kotlin,php,python,rust,bash,html" />
 
-[Skalefou/Firefighter](https://github.com/Skalefou/Firefighter) - Maze game in C++ (under development)
+### 🧩 Frameworks & librairies
+<img src="https://skillicons.dev/icons?i=angular,nestjs,nextjs,nodejs,react,spring,vite" />
 
-[Skalefou/Snake](https://github.com/Skalefou/snake) - Snake game in C++
+### ☁️ Infra, cloud & DevOps
+<img src="https://skillicons.dev/icons?i=ansible,azure,cmake,docker,git,github,gitlab,gcp,grafana,kubernetes,rabbitmq,raspberrypi" />
+
+### 🗄️ Bases de données
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" />
+
+### 🔧 Outils
+<img src="https://skillicons.dev/icons?i=androidstudio,clion,discord,idea,linkedin,npm,postman,powershell,pycharm,sublime,vim,webstorm" />
+
+### 🖥️ OS & plateformes
+<img src="https://skillicons.dev/icons?i=debian,linux,mint,ubuntu" />
