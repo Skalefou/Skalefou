@@ -37,3 +37,7 @@
 
 ### 🖥️ OS & platforms
 <img src="https://skillicons.dev/icons?i=debian,linux,mint,ubuntu" />
+
+## 📬 Contact
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:skamsagar@protonmail.com)
