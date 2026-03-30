@@ -15,7 +15,7 @@
   - 🏗️ Software Architecture
   - 🛡️ DevSecOps practices & pipelines
   - 🌐 Web Development (Spring, NextJS, PostgreSQL, Neo4J, NestJS...)
-  - 
+
 ⚙️ Passionate about low-level systems programming — C · Rust · Assembly · Logic Circuits
 
 ## 🛠️ Tech Stack
