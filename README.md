@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=ansible,azure,cmake,docker,git,github,gitlab,gcp,grafana,kubernetes,rabbitmq,raspberrypi" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=androidstudio,clion,discord,idea,linkedin,npm,postman,powershell,pycharm,sublime,vim,webstorm" />
